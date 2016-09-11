@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/whitesmoke">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send command to Hodor"
+        android:textSize="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Command"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:background="@color/applozic_red_color"
+        android:layout_marginBottom="101dp"
+        android:id="@+id/send_command_btn"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/send_command_editText"
+        android:padding="20dp"
+        android:hint="Type your command here..."
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="183dp" />
+
+
+</RelativeLayout>

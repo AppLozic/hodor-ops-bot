@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Sequoia.iml" filepath="$PROJECT_DIR$/../Sequoia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../applozic-audio-video/applozic-audio-video.iml" filepath="$PROJECT_DIR$/../applozic-audio-video/applozic-audio-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hodor-ops-bot.iml" filepath="$PROJECT_DIR$/../hodor-ops-bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mobicomkit/mobicomkit.iml" filepath="$PROJECT_DIR$/../mobicomkit/mobicomkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mobicomkitui/mobicomkitui.iml" filepath="$PROJECT_DIR$/../mobicomkitui/mobicomkitui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mobicommons/mobicommons.iml" filepath="$PROJECT_DIR$/../mobicommons/mobicommons.iml" />
+    </modules>
+  </component>
+</project>
